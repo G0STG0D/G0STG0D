@@ -1,3 +1,8 @@
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M35zezhcgC)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/gostyt)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/g0stgod)
+
+
 👋 Hey there! Welcome to my GitHub profile! 🚀
 
 I'm a code ninja 🥷 and a digital sorcerer 🔮 on a never-ending quest to conquer the world of software development.
