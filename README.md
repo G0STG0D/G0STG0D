@@ -7,7 +7,7 @@ I'm a code ninja 🥷 and a digital sorcerer 🔮 on a never-ending quest to con
 🔥 **Who am I?**<br>
 I'm a passionate developer with a burning desire to create sleek, scalable, and user-friendly applications. With my fingers dancing across the keyboard, I weave lines of code into beautiful symphonies of functionality and elegance. From front-end enchantments to back-end wizardry, I love to explore every corner of the development universe.
 
-🪴 **Languages and Frameworks**
+🪴 **Languages and Frameworks**<br>
 I'm fluent in the arts of .NET with C#. Java and Processing and Kotlin with KTOR(m).<br>
 Whether it's crafting pixel-perfect interfaces with C# and .NET, building robust Java applications, or leveraging the power of Kotlin for Better Java Development and Server Management, I'm always ready to push boundaries and level up the development game.
 
